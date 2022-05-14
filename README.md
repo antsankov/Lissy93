@@ -10,5 +10,5 @@
 </p>
   
 <p align="center">
-<a href="mailto:tsankov.jobs@gmail.com"><code>tsankov.jobs at gmail dot com</code></a> │ <a href="urbit.org"><code>~rabrel</code></a>
+<a href="mailto:tsankov.jobs@gmail.com"><code>tsankov.jobs at gmail dot com</code></a> │ <a href="https://urbit.org"><code>~rabrel</code></a>
 </p>
